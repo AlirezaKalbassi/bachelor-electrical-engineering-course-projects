@@ -1,0 +1,21 @@
+NET "clk" LOC = T8;
+
+NET "rst" LOC = L3;
+
+NET "rx" LOC = A4;
+
+NET "d(0)" LOC = C7;
+NET "d(1)" LOC = E6;
+NET "d(2)" LOC = C5;
+NET "d(3)" LOC = F7;
+NET "d(4)" LOC = D6;
+NET "d(5)" LOC = E7;
+NET "d(6)" LOC = D5;
+NET "d(7)" LOC = C6;
+
+NET "s(0)" LOC = D8;
+NET "s(1)" LOC = E8;
+NET "s(2)" LOC = F9;
+NET "s(3)" LOC = F10;
+NET "s(4)" LOC = E10;
+NET "s(5)" LOC = D9;
